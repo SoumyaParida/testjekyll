@@ -1,0 +1,84 @@
+
+
+     /* Large desktop */
+    @media (max-width: 1200px) {
+.container-mod{
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+}
+
+    /* Portrait tablet to landscape and desktop */
+    @media (min-width: 768px) and (max-width: 979px) {
+      .container-mod{
+        padding-left: 50px;
+        padding-right:50px;
+      }
+      .CTA{
+
+      }
+      .available-service-top{
+        position: relative;
+        bottom: 12px;
+      }
+
+
+
+}
+
+
+    /* Landscape phone to portrait tablet */
+    @media (max-width: 767px) {
+      hr.fancy-line{
+        margin-top: 50px;
+      }
+      .left-box{
+        top:20px;
+        left: 0px;
+      }
+      .right-box{
+        bottom: 20px;
+        right: 0px;
+      }
+      .container-mod{
+        padding-left: 50px;
+        padding-right:50px;
+      }
+      .CTA{
+      float: none;
+      position: relative;
+      top: 20px;
+      }
+      .costum-conatainer{
+        height: auto;
+      }
+      }
+
+
+    /* Landscape phones and down */
+    @media (max-width: 480px) {
+      hr.fancy-line{
+        margin-top: 50px;
+      }
+      .costum-conatainer{
+        height: auto;
+      }
+      .CTA{
+        float: none;
+        position: relative;
+        top: 20px;
+      }
+      .container-mod{
+        padding-left: 20px;
+        padding-right:20px;
+      }
+      .heading {
+    font-size: 16px;
+    margin-top: 13px;
+    }
+    .text{
+      margin-top: 20px;
+      font-size: 14px;
+    }
+}

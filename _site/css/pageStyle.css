@@ -1,0 +1,284 @@
+body{
+  background-image: url(../img/main_bg.jpg);
+  background-size: cover;
+}
+.title-1{
+  letter-spacing: 2px;
+  font-weight: 400;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  padding-bottom: 42px;
+}
+.part-1-1{
+  background: rgba(54,130,245,1);
+background: -moz-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(54,130,245,1)), color-stop(100%, rgba(13,184,247,1)));
+background: -webkit-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -o-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3682f5', endColorstr='#0db8f7', GradientType=1 );
+  min-height: 287px;
+    border: 5px solid rgba(255, 255, 255, 0);
+}
+.part-1-2{
+  background: #dddddd;
+  min-height: 100px;
+  height: auto;
+
+  border: 5px solid rgba(255, 255, 255, 0);
+}
+.part-2-1{
+  background: rgba(54,130,245,1);
+background: -moz-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(54,130,245,1)), color-stop(100%, rgba(13,184,247,1)));
+background: -webkit-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -o-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3682f5', endColorstr='#0db8f7', GradientType=1 );
+  min-height: 287px;
+    border: 5px solid rgba(255, 255, 255, 0);
+}
+.part-2-2{
+  background: #dddddd;
+  min-height: 100px;
+  height: auto;
+
+  border: 5px solid rgba(255, 255, 255, 0);
+}
+.part-3-1{
+  background: rgba(54,130,245,1);
+  background: -moz-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(54,130,245,1)), color-stop(100%, rgba(13,184,247,1)));
+  background: -webkit-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+  background: linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3682f5', endColorstr='#0db8f7', GradientType=1 );
+  min-height: 287px;
+    border: 5px solid rgba(255, 255, 255, 0);
+}
+.part-3-2{
+  background: #dddddd;
+  min-height: 100px;
+  height: auto;
+
+  border: 5px solid rgba(255, 255, 255, 0);
+}
+.container-mod{
+  padding-left: 150px;
+  padding-right: 150px;
+}
+.coyright{
+  float: left;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+.social-right{
+  float: right;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+.hr-mod{
+  margin-top:50px;
+  margin-bottom: 5px;
+}
+.row-fix{
+  margin: 0px;
+}
+.padding-init{
+
+  cursor: pointer;
+  padding: 0px;
+  opacity: 0.7;
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+}
+.padding-init:hover{
+  transform: translate3d(0px,-10px, -200px);
+
+  transition: 1.3s;
+  opacity: 1;
+
+}
+.Subscription-free{
+  margin-top:15px;
+  color: white;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 20px;
+}
+.purchase-hr{
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+.price-text{
+  font-family: 'Raleway', sans-serif;
+
+  color: white;
+  text-align: center;
+}
+.currency{
+  position: relative;
+  bottom: 45px;
+  font-size: 20px;
+}
+.price{
+  font-size: 95px;
+}
+.month{
+  font-size: 20px;
+}
+.available-service{
+  margin-top: 17px;
+  max-height: 20px;
+  height: auto;
+
+}
+.service-text{
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+}
+.numb-box{
+  color: white;
+background: #3682f5;
+padding: 4px 12px;
+
+}
+.Subscription-free-description{
+  padding-top: 10px;
+  color: white;
+  font-size: 15px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 400;
+}
+.who{
+  font-weight: 600;
+}
+
+/*page 2*/
+
+
+.count{
+      color: white;
+      font-size: 20px;
+      font-family: 'Raleway', sans-serif;
+      font-weight: 600;
+      margin-top: 9px;
+      width: 30px;
+      height: 30px;
+      background: #373737;
+      text-align: center;
+      border-radius: 50px;
+      float: left;
+      margin-right: 10px;
+}
+.heading{
+  font-size: 20px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 800;
+}
+.text{
+  font-size: 14px;
+  font-family: 'Raleway', sans-serif;
+  font-weight: 500;
+  margin-top: -15px;
+}
+.CTA{
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+-moz-box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+box-shadow: 0px 1px 5px 0px rgba(0,0,0,0.75);
+  background: rgba(54,130,245,1);
+background: -moz-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(54,130,245,1)), color-stop(100%, rgba(13,184,247,1)));
+background: -webkit-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -o-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: -ms-linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+background: linear-gradient(45deg, rgba(54,130,245,1) 0%, rgba(13,184,247,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#3682f5', endColorstr='#0db8f7', GradientType=1 );
+color: white;
+padding: 10px 50px;
+font-size: 17px;
+font-family: 'Raleway', sans-serif;
+font-weight: 600;
+border-radius: 103px;
+letter-spacing: 0px;
+float: right;
+margin-top: 68px;
+transition: 1s;
+}
+.CTA:hover{
+  transition: 1s;
+  background: rgba(109,162,242,1);
+  background: -moz-linear-gradient(45deg, rgba(109,162,242,1) 0%, rgba(49,193,245,1) 100%);
+  background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(109,162,242,1)), color-stop(100%, rgba(49,193,245,1)));
+  background: -webkit-linear-gradient(45deg, rgba(109,162,242,1) 0%, rgba(49,193,245,1) 100%);
+  background: -o-linear-gradient(45deg, rgba(109,162,242,1) 0%, rgba(49,193,245,1) 100%);
+  background: -ms-linear-gradient(45deg, rgba(109,162,242,1) 0%, rgba(49,193,245,1) 100%);
+  background: linear-gradient(45deg, rgba(109,162,242,1) 0%, rgba(49,193,245,1) 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#6da2f2', endColorstr='#31c1f5', GradientType=1 );
+	color: white;
+  text-decoration: none;
+}
+.form-inline .form-control{
+    font-family: 'Raleway', sans-serif;
+}
+.btn{
+    font-family: 'Raleway', sans-serif;
+}
+
+
+
+
+
+hr.fancy-line {
+    border: 0;
+    height: 1px;
+    position: relative;
+    margin: 0.5em 0; /* Keep other elements away from pseudo elements*/
+}
+hr.fancy-line:before {
+    top: -0.5em;
+    height: 1em;
+}
+hr.fancy-line:after {
+    content: '';
+    padding-bottom: 9px;
+    height: 8px;
+    top: -7px;
+
+}
+
+hr.fancy-line:before, hr.fancy-line:after {
+    content: '';
+    position: relative;
+    width: 100%;
+}
+
+hr.fancy-line, hr.fancy-line:before {
+    background: -moz-radial-gradient(center, ellipse cover, rgba(0,0,0,0.1) 0%, rgba(0,0,0,0) 75%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 75%, color-stop(0%,rgba(0,0,0,0.1)), color-stop(75%,rgba(0,0,0,0)));
+    background: -webkit-radial-gradient(center, ellipse cover, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%);
+    background: -o-radial-gradient(center, ellipse cover, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%);
+    background: -ms-radial-gradient(center, ellipse cover, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%);
+    background: radial-gradient(ellipse at center, rgba(0,0,0,0.1) 0%,rgba(0,0,0,0) 75%);
+
+}
+
+ hr.fancy-line:after {
+    background: white;
+}
+.left-box{
+  position: relative;
+  left: 20px;
+}
+.right-box{
+  position: relative;
+  right: 20px;
+}
+.costum-conatainer{
+  height: 600px;
+}
